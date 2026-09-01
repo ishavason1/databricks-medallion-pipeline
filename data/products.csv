@@ -1,0 +1,501 @@
+product_id,product_name,category,price,cost,stock_quantity,reorder_level
+1,Standard Device,Sports,252.44,74.07,104,96
+2,Smart Service,Hardware,427.7,19.75,223,39
+3,Smart Hub,Electronics,565.63,359.43,718,79
+4,Ultra Tool,Food,593.37,405.67,6,30
+5,Ultra System,Sports,163.92,478.82,344,23
+6,Standard Software,Clothing,365.39,175.26,270,15
+7,Super Console,Clothing,973.38,192.37,565,47
+8,Wireless System,Hardware,200.37,39.43,677,39
+9,Basic Service,Home & Garden,867.82,193.16,464,91
+10,Advanced Product,Toys,361.72,336.74,718,97
+11,Standard Hub,Books,538.8,126.18,473,58
+12,Basic Console,Home & Garden,687.77,422.21,794,17
+13,Professional Device,Toys,407.15,37.76,935,82
+14,Advanced Tool,Food,401.68,457.7,469,28
+15,Basic Product,Home & Garden,747.54,271.79,764,84
+16,Ultra Hub,Beauty,368.38,498.68,141,75
+17,Super Service,Electronics,862.49,80.66,163,97
+18,Ultra Hub,Clothing,390.92,299.96,479,77
+19,Basic Console,Electronics,683.48,61.7,906,78
+20,Basic System,Clothing,300.57,83.29,3,43
+21,Smart Product,Software,913.5,435.91,305,91
+22,Smart Hub,Home & Garden,161.31,382.44,552,77
+23,Premium Hub,Toys,493.72,60.37,371,49
+24,Professional Device,Home & Garden,879.23,473.74,87,72
+25,Standard Console,Books,137.11,240.26,562,31
+26,Basic Console,Hardware,428.91,109.84,552,98
+27,Professional Solution,Beauty,995.2,326.69,448,76
+28,Super Service,Home & Garden,232.45,172.35,602,80
+29,Professional Hub,Home & Garden,17.12,355.38,60,39
+30,Standard Device,Toys,80.15,122.81,685,72
+31,Professional Console,Books,726.12,441.78,590,70
+32,Professional Hardware,Beauty,198.51,52.98,441,55
+33,Ultra Software,Food,865.2,31.81,669,92
+34,Standard Device,Beauty,730.93,401.29,111,41
+35,Professional Tool,Software,454.13,213.83,285,69
+36,Professional Service,Food,809.94,428.7,100,16
+37,Smart Device,Clothing,927.1,425.1,170,62
+38,Super Hardware,Home & Garden,866.0,451.71,168,58
+39,Premium Software,Sports,927.25,393.64,292,64
+40,Smart Hardware,Books,198.0,112.76,59,84
+41,Smart Device,Toys,66.59,294.17,514,77
+42,Deluxe Device,Software,89.31,96.98,609,18
+43,Professional Software,Clothing,942.18,286.99,592,86
+44,Premium Hub,Clothing,425.03,293.92,535,50
+45,Basic Tool,Toys,246.3,200.91,687,92
+46,Basic Hardware,Toys,929.73,468.19,9,68
+47,Wireless Hub,Clothing,82.53,110.51,271,26
+48,Advanced Service,Home & Garden,375.83,83.08,853,79
+49,Basic Hub,Software,17.74,409.47,306,94
+50,Standard Product,Sports,124.27,57.98,566,29
+51,Basic Solution,Hardware,218.52,174.73,703,91
+52,Basic Console,Food,258.61,454.54,52,21
+53,Ultra Solution,Electronics,13.51,386.7,652,43
+54,Deluxe Hardware,Software,708.61,282.65,114,19
+55,Deluxe Console,Electronics,836.25,293.34,151,65
+56,Deluxe Device,Sports,371.01,466.88,995,15
+57,Advanced Tool,Home & Garden,670.26,180.07,573,62
+58,Wireless Product,Home & Garden,865.96,488.22,830,32
+59,Ultra Device,Books,739.2,169.43,953,62
+60,Professional Solution,Books,789.5,58.51,893,14
+61,Super Tool,Home & Garden,818.42,232.85,312,39
+62,Professional Device,Home & Garden,404.48,142.91,71,45
+63,Advanced Console,Beauty,682.72,422.61,339,13
+64,Standard Solution,Books,584.78,491.86,39,23
+65,Wireless Software,Toys,731.26,160.27,620,75
+66,Standard Software,Hardware,198.18,26.97,446,10
+67,Smart Console,Home & Garden,370.58,39.64,680,52
+68,Wireless System,Clothing,722.56,153.66,316,95
+69,Ultra System,Beauty,700.24,279.43,196,63
+70,Ultra Product,Hardware,573.41,206.01,853,10
+71,Basic Solution,Home & Garden,435.59,292.09,670,51
+72,Super Hardware,Food,678.87,258.03,812,31
+73,Standard Solution,Software,667.22,311.53,95,40
+74,Basic Tool,Home & Garden,155.88,27.88,486,88
+75,Standard Hardware,Beauty,887.28,289.96,735,99
+76,Ultra Hardware,Beauty,251.54,329.75,5,23
+77,Ultra Tool,Books,806.07,349.48,475,16
+78,Smart Tool,Clothing,461.9,401.7,683,77
+79,Smart Hub,Toys,950.54,446.26,627,74
+80,Ultra Console,Food,898.24,373.11,486,67
+81,Basic Tool,Sports,768.16,263.04,641,40
+82,Basic Hardware,Clothing,716.41,121.07,343,50
+83,Smart Service,Books,159.32,194.6,156,100
+84,Professional Service,Beauty,413.52,273.59,425,17
+85,Professional Software,Beauty,905.79,294.12,712,12
+86,Wireless Software,Food,15.84,179.12,771,59
+87,Ultra Console,Software,801.87,449.42,499,38
+88,Basic Software,Food,38.73,171.38,695,61
+89,Deluxe Hardware,Books,980.91,269.39,928,60
+90,Wireless Hub,Electronics,93.11,217.16,887,69
+91,Deluxe Device,Sports,385.31,109.77,334,53
+92,Ultra Solution,Beauty,259.75,45.54,19,79
+93,Premium System,Home & Garden,653.64,391.71,667,15
+94,Premium Tool,Home & Garden,840.84,312.56,244,26
+95,Super Service,Hardware,948.28,235.19,262,57
+96,Deluxe Hub,Hardware,964.1,360.59,796,30
+97,Basic Service,Hardware,35.42,159.42,693,58
+98,Ultra Tool,Clothing,596.18,416.13,248,23
+99,Basic Hub,Clothing,798.26,285.14,42,54
+100,Smart Software,Toys,78.27,325.53,12,63
+101,Super Service,Beauty,961.18,319.61,848,68
+102,Deluxe Software,Books,736.46,482.91,276,88
+103,Smart Hardware,Food,441.22,366.86,274,51
+104,Professional Service,Sports,882.81,125.71,475,82
+105,Wireless Software,Toys,38.41,426.22,186,72
+106,Professional System,Sports,346.94,440.76,718,45
+107,Smart Device,Software,948.58,47.38,737,62
+108,Super Console,Home & Garden,693.7,324.72,502,67
+109,Premium Service,Sports,229.38,347.43,313,94
+110,Wireless System,Food,557.94,175.16,763,80
+111,Advanced System,Food,278.21,129.44,123,34
+112,Advanced Service,Software,951.37,346.63,196,37
+113,Super Solution,Hardware,976.84,264.7,289,22
+114,Professional Solution,Home & Garden,367.27,154.62,725,78
+115,Deluxe Solution,Electronics,974.55,278.91,714,26
+116,Super Service,Electronics,578.32,237.35,451,53
+117,Deluxe Device,Sports,941.65,241.48,841,18
+118,Ultra Hardware,Clothing,581.25,344.79,155,29
+119,Wireless Solution,Clothing,993.98,63.63,782,63
+120,Wireless Hub,Hardware,233.43,263.67,461,66
+121,Basic Hub,Beauty,312.33,312.41,624,22
+122,Professional Tool,Sports,663.82,82.74,177,80
+123,Standard Product,Electronics,414.43,346.24,481,47
+124,Premium Tool,Sports,709.89,352.98,464,19
+125,Professional Solution,Hardware,664.57,467.17,435,24
+126,Smart Tool,Books,909.33,414.18,73,17
+127,Deluxe Solution,Hardware,751.47,286.76,295,66
+128,Standard Hardware,Sports,702.74,471.62,512,79
+129,Super Hardware,Clothing,602.06,445.26,752,51
+130,Wireless Solution,Electronics,100.41,481.15,856,83
+131,Wireless Device,Sports,580.48,382.74,179,70
+132,Smart Hardware,Sports,189.67,294.74,650,72
+133,Standard Hardware,Toys,414.26,163.92,107,30
+134,Advanced Software,Food,295.34,472.87,833,80
+135,Premium Hardware,Clothing,321.37,165.02,993,61
+136,Smart Device,Software,467.36,31.83,530,56
+137,Wireless Hardware,Food,762.39,105.76,562,26
+138,Basic Hardware,Food,130.21,486.71,623,40
+139,Deluxe Solution,Software,23.54,206.96,230,24
+140,Super Service,Books,503.39,359.72,521,100
+141,Basic Software,Food,980.44,125.65,564,28
+142,Ultra Tool,Hardware,513.16,440.27,884,18
+143,Basic Software,Toys,934.91,256.33,840,10
+144,Basic Solution,Hardware,584.12,331.67,886,29
+145,Super Console,Food,351.67,278.2,556,58
+146,Super System,Home & Garden,980.97,123.21,392,39
+147,Ultra Device,Toys,747.26,354.09,830,58
+148,Ultra Product,Food,965.18,67.49,988,85
+149,Advanced Service,Food,108.71,455.67,15,28
+150,Ultra Product,Clothing,474.8,484.76,346,89
+151,Ultra Service,Toys,853.82,430.37,389,50
+152,Super Console,Electronics,621.28,121.21,700,46
+153,Professional Service,Beauty,978.55,381.38,720,22
+154,Super Product,Sports,904.39,27.77,815,17
+155,Basic System,Toys,436.38,125.88,421,82
+156,Deluxe Product,Books,88.18,436.07,634,97
+157,Professional Hardware,Hardware,151.69,233.27,260,68
+158,Basic Device,Food,902.2,340.42,161,19
+159,Super System,Hardware,306.16,481.2,706,42
+160,Super Solution,Home & Garden,999.38,427.4,109,40
+161,Ultra Hub,Toys,579.06,496.38,302,12
+162,Ultra Solution,Electronics,570.27,344.47,762,16
+163,Wireless Hardware,Sports,777.98,118.91,821,55
+164,Professional Tool,Hardware,258.12,379.01,785,94
+165,Deluxe Service,Electronics,315.84,223.21,593,56
+166,Deluxe Service,Sports,333.45,210.67,205,26
+167,Smart System,Software,506.78,139.9,168,42
+168,Super Solution,Toys,806.19,236.82,77,28
+169,Professional Software,Software,372.12,396.39,14,43
+170,Smart Service,Food,374.9,375.76,268,84
+171,Ultra System,Clothing,678.09,238.38,634,81
+172,Advanced Hub,Home & Garden,651.18,319.52,475,99
+173,Basic Software,Clothing,148.38,473.4,311,73
+174,Standard Service,Home & Garden,888.39,72.15,464,57
+175,Smart Software,Hardware,744.85,81.49,424,93
+176,Standard Hardware,Hardware,414.03,476.0,33,98
+177,Advanced Tool,Food,450.25,121.88,371,22
+178,Advanced Console,Toys,69.94,141.56,991,25
+179,Super Service,Home & Garden,645.29,300.59,21,16
+180,Advanced Tool,Books,789.11,106.58,849,80
+181,Professional Hub,Home & Garden,814.92,120.33,792,28
+182,Wireless Device,Sports,859.82,76.62,133,79
+183,Basic Product,Clothing,664.45,17.76,15,55
+184,Professional Hub,Toys,25.62,136.36,129,63
+185,Smart Service,Clothing,481.48,390.12,525,85
+186,Standard Hardware,Software,229.33,309.48,744,94
+187,Smart Solution,Food,646.91,20.42,490,61
+188,Ultra Service,Food,715.28,224.56,920,20
+189,Advanced Hub,Books,75.03,141.13,648,84
+190,Smart System,Beauty,994.68,267.63,464,74
+191,Wireless Software,Clothing,795.17,61.63,670,93
+192,Smart Tool,Beauty,457.04,118.1,347,68
+193,Ultra Software,Clothing,319.42,159.7,261,57
+194,Deluxe Hardware,Clothing,100.31,47.26,442,22
+195,Advanced Product,Software,69.38,478.53,575,52
+196,Standard Software,Toys,874.87,470.86,433,16
+197,Basic Hub,Sports,358.13,291.07,217,29
+198,Super Tool,Clothing,356.61,280.35,117,45
+199,Wireless Tool,Beauty,846.7,487.4,838,89
+200,Wireless Console,Electronics,612.9,330.63,710,44
+201,Premium Product,Sports,705.67,157.95,347,54
+202,Premium Product,Books,570.66,203.39,145,91
+203,Premium Service,Software,222.98,212.82,349,30
+204,Advanced Solution,Toys,779.07,285.96,86,16
+205,Deluxe Product,Hardware,59.26,45.38,453,94
+206,Ultra Hardware,Hardware,447.62,140.22,773,75
+207,Standard System,Beauty,119.78,340.72,607,72
+208,Smart Solution,Electronics,228.31,492.3,56,10
+209,Professional Solution,Home & Garden,769.68,383.26,296,51
+210,Standard Device,Food,749.54,91.97,389,78
+211,Professional Console,Software,835.02,404.07,73,60
+212,Premium Software,Electronics,465.16,43.54,320,83
+213,Ultra Hub,Beauty,712.4,211.76,117,61
+214,Premium System,Books,803.31,310.97,851,98
+215,Advanced Service,Beauty,846.04,125.44,603,61
+216,Smart Service,Beauty,871.82,374.17,226,52
+217,Deluxe Service,Software,636.89,267.65,198,54
+218,Advanced Product,Home & Garden,111.78,131.7,177,87
+219,Deluxe Service,Books,951.78,315.83,475,82
+220,Wireless Hardware,Hardware,646.56,493.33,330,90
+221,Advanced Product,Food,77.6,223.89,310,45
+222,Wireless Device,Toys,512.26,158.65,462,14
+223,Premium System,Sports,85.96,432.8,875,21
+224,Wireless Hub,Software,390.64,292.26,977,15
+225,Super Hub,Home & Garden,328.31,240.44,154,17
+226,Super Service,Toys,982.56,46.74,661,32
+227,Premium Tool,Food,991.08,264.41,624,30
+228,Advanced System,Sports,393.54,388.36,695,86
+229,Premium System,Clothing,336.39,281.19,395,46
+230,Basic Hub,Books,340.03,293.46,144,54
+231,Basic Software,Books,599.09,469.31,317,81
+232,Ultra System,Books,673.42,415.33,756,97
+233,Smart Service,Beauty,513.4,14.02,316,33
+234,Professional System,Food,200.09,499.99,158,19
+235,Basic Service,Software,773.17,418.38,904,77
+236,Premium System,Hardware,139.74,191.48,166,33
+237,Wireless Product,Food,53.26,185.33,736,40
+238,Super Hub,Sports,754.87,392.98,239,78
+239,Professional Solution,Food,904.93,101.04,694,83
+240,Super Hardware,Sports,780.34,253.94,428,30
+241,Professional Hub,Books,874.27,30.83,492,57
+242,Smart Service,Software,852.65,146.11,781,30
+243,Basic Hardware,Software,155.88,221.55,969,38
+244,Super System,Electronics,420.75,201.24,382,40
+245,Ultra Service,Toys,232.29,162.75,101,93
+246,Advanced Product,Books,47.92,459.11,483,99
+247,Deluxe Hardware,Food,619.19,453.4,19,42
+248,Professional Product,Software,940.82,306.4,433,24
+249,Basic Tool,Sports,130.63,123.03,654,89
+250,Super Service,Clothing,838.32,252.42,548,12
+251,Smart Hub,Home & Garden,721.36,149.18,1,88
+252,Advanced Tool,Hardware,422.4,333.86,87,77
+253,Advanced Service,Software,548.64,394.27,519,80
+254,Premium Software,Food,53.1,196.51,382,42
+255,Premium System,Clothing,351.35,367.81,643,23
+256,Wireless System,Books,53.89,275.28,833,92
+257,Deluxe Hardware,Food,635.42,406.69,64,68
+258,Premium Solution,Home & Garden,53.37,103.74,42,50
+259,Basic Console,Beauty,989.23,273.8,259,14
+260,Professional Solution,Toys,863.52,28.66,671,52
+261,Basic Service,Toys,442.58,203.01,450,59
+262,Advanced Product,Food,695.15,186.84,816,76
+263,Basic Service,Beauty,88.14,303.21,842,33
+264,Smart Solution,Toys,111.57,167.32,302,49
+265,Super Hub,Beauty,174.98,224.73,457,15
+266,Advanced Hub,Beauty,281.81,490.11,970,17
+267,Standard Software,Toys,517.96,376.2,163,13
+268,Deluxe Hub,Food,44.45,38.28,797,92
+269,Advanced System,Beauty,949.97,21.03,157,96
+270,Super System,Toys,449.5,43.06,140,77
+271,Advanced Software,Toys,653.07,128.56,116,13
+272,Deluxe Hardware,Software,393.12,283.03,268,43
+273,Super Tool,Hardware,292.72,458.66,502,35
+274,Standard Product,Clothing,457.52,449.85,455,21
+275,Advanced System,Clothing,554.5,148.73,307,30
+276,Deluxe System,Software,232.0,492.64,811,27
+277,Professional Hardware,Electronics,367.29,288.28,478,80
+278,Deluxe Hub,Clothing,75.09,202.09,734,71
+279,Smart Software,Beauty,825.11,41.51,995,50
+280,Standard Hardware,Food,683.31,175.53,899,80
+281,Wireless Product,Books,438.29,455.8,56,25
+282,Smart Product,Sports,173.01,164.72,726,38
+283,Advanced Console,Sports,847.47,129.05,650,80
+284,Basic Product,Sports,618.28,51.25,656,31
+285,Wireless Hub,Books,179.49,314.12,923,87
+286,Advanced Hub,Electronics,826.98,19.04,46,92
+287,Wireless Solution,Home & Garden,769.29,211.21,654,13
+288,Super Console,Sports,645.49,154.54,250,97
+289,Ultra Solution,Food,82.24,34.66,450,63
+290,Super Hardware,Home & Garden,346.79,76.12,882,50
+291,Advanced Software,Books,763.06,259.92,108,50
+292,Professional Hardware,Clothing,274.8,127.72,99,16
+293,Basic Software,Hardware,423.95,481.53,923,30
+294,Advanced Hub,Toys,197.94,83.87,527,69
+295,Super Solution,Food,32.94,472.89,517,68
+296,Professional Tool,Hardware,359.37,30.02,506,86
+297,Super Solution,Software,18.1,58.21,137,43
+298,Advanced Software,Toys,54.79,30.32,575,34
+299,Advanced Console,Sports,82.8,254.61,782,80
+300,Basic Hub,Hardware,127.62,487.67,403,57
+301,Advanced Console,Toys,757.42,103.53,521,61
+302,Smart Device,Electronics,48.52,358.23,823,70
+303,Smart Hardware,Books,610.2,260.18,335,88
+304,Advanced Product,Beauty,990.71,370.96,306,85
+305,Advanced Console,Software,537.02,355.83,306,70
+306,Premium System,Toys,677.07,490.05,597,49
+307,Premium Hub,Food,272.88,329.52,995,84
+308,Wireless Tool,Electronics,587.69,89.4,644,89
+309,Ultra Product,Home & Garden,41.25,474.36,112,34
+310,Premium Hardware,Toys,424.59,209.42,208,62
+311,Smart Hub,Food,874.09,369.24,63,100
+312,Deluxe Console,Home & Garden,565.28,499.07,489,77
+313,Ultra System,Books,465.07,268.9,559,55
+314,Basic Hub,Food,200.34,127.03,571,48
+315,Professional Solution,Sports,707.85,346.67,500,50
+316,Super System,Software,934.36,398.73,280,46
+317,Standard Hub,Software,385.9,490.18,838,54
+318,Deluxe Solution,Electronics,294.75,358.5,354,66
+319,Basic Hardware,Home & Garden,210.05,271.6,955,81
+320,Basic Product,Clothing,619.52,295.48,248,16
+321,Smart Tool,Home & Garden,61.97,209.58,734,70
+322,Standard Product,Electronics,964.87,489.07,161,62
+323,Super Hardware,Home & Garden,758.35,147.19,292,92
+324,Premium Service,Hardware,239.9,370.65,870,14
+325,Deluxe Software,Books,934.58,22.99,856,60
+326,Super Product,Sports,877.98,9.59,581,87
+327,Standard System,Sports,459.81,322.45,536,73
+328,Deluxe Console,Food,280.11,405.36,338,30
+329,Super Solution,Books,23.94,171.87,302,82
+330,Professional Product,Hardware,857.59,449.04,846,64
+331,Smart System,Clothing,406.82,52.22,143,71
+332,Advanced Tool,Electronics,268.18,121.58,771,44
+333,Advanced Solution,Hardware,725.65,10.66,669,56
+334,Professional Device,Clothing,470.74,84.06,702,74
+335,Basic Service,Sports,373.87,114.32,980,27
+336,Super Product,Food,750.26,304.84,425,99
+337,Smart Hardware,Software,803.98,413.67,780,41
+338,Wireless Service,Software,452.28,353.36,79,82
+339,Standard Device,Software,903.86,105.07,549,29
+340,Deluxe System,Software,447.42,341.75,734,84
+341,Super Service,Software,451.03,32.54,135,75
+342,Ultra Hardware,Hardware,67.16,233.88,826,49
+343,Premium Software,Sports,818.29,374.17,592,19
+344,Premium Software,Toys,703.38,272.88,61,18
+345,Super Device,Sports,414.78,385.64,784,92
+346,Ultra System,Beauty,454.05,458.97,386,58
+347,Standard Console,Books,657.0,177.15,182,78
+348,Ultra Console,Books,730.58,115.23,3,12
+349,Basic Hardware,Software,429.89,192.74,235,41
+350,Super System,Books,282.89,469.02,742,24
+351,Premium Software,Hardware,768.39,442.46,16,40
+352,Professional Service,Clothing,598.0,225.99,688,100
+353,Premium Tool,Electronics,408.24,121.0,222,17
+354,Deluxe Console,Sports,241.82,458.62,589,50
+355,Wireless Hub,Toys,244.53,438.75,676,76
+356,Professional Software,Sports,282.4,280.58,605,32
+357,Ultra Console,Food,56.42,175.49,658,95
+358,Ultra Console,Toys,699.35,207.09,307,58
+359,Deluxe Console,Food,248.56,116.55,878,100
+360,Deluxe Hardware,Electronics,566.76,484.05,570,77
+361,Deluxe Software,Home & Garden,262.45,168.48,80,67
+362,Advanced Service,Software,727.34,99.29,274,58
+363,Wireless Hub,Electronics,874.88,98.14,779,85
+364,Smart Tool,Food,216.8,453.98,310,11
+365,Professional Tool,Clothing,749.41,378.39,936,41
+366,Wireless Tool,Beauty,915.98,278.28,794,46
+367,Ultra Hardware,Software,652.23,157.67,368,75
+368,Super Hardware,Clothing,804.79,362.59,779,50
+369,Professional System,Toys,419.79,283.45,226,28
+370,Premium Solution,Software,935.41,291.68,427,47
+371,Deluxe Tool,Toys,237.72,287.05,251,73
+372,Smart System,Sports,765.73,246.87,740,92
+373,Super Hardware,Books,735.44,179.33,143,79
+374,Super Product,Software,990.42,478.83,536,14
+375,Standard Device,Electronics,418.27,422.06,236,18
+376,Deluxe Device,Home & Garden,510.68,189.73,632,91
+377,Wireless Hardware,Food,25.57,268.45,421,11
+378,Premium Console,Sports,540.38,146.91,514,99
+379,Ultra Product,Clothing,918.87,264.57,246,34
+380,Wireless Console,Sports,817.06,137.33,406,20
+381,Advanced Software,Food,569.35,495.17,231,48
+382,Standard Device,Clothing,411.23,191.7,487,17
+383,Premium Product,Clothing,504.86,219.79,803,52
+384,Wireless Service,Software,919.96,118.73,922,98
+385,Wireless Hardware,Sports,56.1,41.8,947,45
+386,Smart Hub,Electronics,187.56,425.96,16,36
+387,Wireless Product,Beauty,929.59,153.14,577,40
+388,Wireless Software,Software,338.41,379.03,143,98
+389,Standard Console,Toys,63.16,221.36,858,19
+390,Advanced Hub,Hardware,955.31,201.37,792,51
+391,Premium Solution,Food,495.7,181.13,963,58
+392,Ultra Product,Hardware,664.07,47.42,633,47
+393,Professional Service,Clothing,275.29,193.1,802,91
+394,Deluxe Software,Toys,367.09,50.3,965,49
+395,Super System,Sports,111.21,48.21,441,67
+396,Smart Console,Software,413.96,18.0,362,80
+397,Standard Hub,Hardware,786.59,432.54,12,47
+398,Ultra Software,Clothing,727.6,281.97,248,83
+399,Smart Product,Beauty,177.81,138.11,274,73
+400,Deluxe Service,Books,440.33,213.45,495,19
+401,Advanced Solution,Home & Garden,723.69,250.42,631,35
+402,Super Service,Books,311.61,474.67,340,89
+403,Ultra System,Food,341.39,408.66,880,93
+404,Wireless Product,Sports,327.46,473.9,205,71
+405,Advanced Product,Beauty,969.04,149.27,711,91
+406,Super Hub,Home & Garden,332.63,143.75,804,60
+407,Advanced Service,Hardware,207.8,498.65,184,97
+408,Smart Device,Food,943.55,108.78,816,47
+409,Standard Software,Food,147.79,154.9,258,94
+410,Deluxe Software,Beauty,83.23,495.4,490,84
+411,Ultra Console,Software,924.26,435.47,428,79
+412,Premium System,Software,597.88,457.63,111,41
+413,Advanced Product,Hardware,53.85,491.89,693,92
+414,Ultra System,Beauty,114.89,53.81,227,75
+415,Smart Console,Hardware,690.79,114.41,383,60
+416,Super Hub,Software,159.24,498.86,494,23
+417,Basic Software,Clothing,124.91,470.63,145,54
+418,Basic System,Food,786.43,262.95,356,70
+419,Standard Hardware,Food,325.72,153.63,829,100
+420,Standard Device,Toys,651.49,340.18,168,41
+421,Smart Product,Software,168.53,282.13,981,69
+422,Professional Software,Books,194.52,330.37,405,13
+423,Wireless Tool,Food,596.28,197.47,721,37
+424,Professional Solution,Clothing,581.57,400.75,549,33
+425,Advanced System,Home & Garden,462.97,134.86,883,72
+426,Smart System,Hardware,394.75,199.31,116,54
+427,Advanced Hardware,Hardware,180.8,338.43,819,48
+428,Wireless Hub,Clothing,675.39,160.03,244,49
+429,Standard Product,Toys,696.5,257.86,428,86
+430,Deluxe Hub,Beauty,428.81,245.9,550,98
+431,Deluxe Console,Books,494.75,74.45,322,67
+432,Wireless Device,Toys,952.32,244.88,199,59
+433,Smart Console,Food,415.04,248.4,727,66
+434,Super Product,Clothing,569.74,398.96,225,47
+435,Premium Solution,Home & Garden,542.23,88.26,468,82
+436,Super Console,Software,122.08,61.53,793,79
+437,Advanced Console,Electronics,762.4,223.48,223,64
+438,Standard Tool,Sports,876.06,20.95,269,54
+439,Standard Hardware,Clothing,777.88,122.29,830,85
+440,Advanced Hub,Beauty,174.32,73.92,211,36
+441,Premium Hub,Toys,536.96,300.44,172,51
+442,Basic Solution,Hardware,274.67,429.72,921,96
+443,Standard Product,Beauty,919.58,496.28,887,93
+444,Deluxe Product,Home & Garden,154.78,164.44,253,96
+445,Ultra Hardware,Books,581.65,138.01,424,58
+446,Super Service,Clothing,408.82,376.15,711,57
+447,Super Hardware,Toys,586.14,435.11,867,21
+448,Super System,Clothing,797.72,201.87,991,64
+449,Professional Hardware,Sports,329.64,145.38,560,83
+450,Deluxe Hub,Food,790.42,447.61,780,16
+451,Premium Service,Food,26.12,465.07,161,66
+452,Super Device,Beauty,210.3,345.85,135,93
+453,Basic Product,Sports,102.41,183.42,84,57
+454,Deluxe Device,Beauty,629.35,364.36,773,39
+455,Ultra Service,Clothing,11.08,241.02,135,85
+456,Professional Console,Food,19.19,349.32,836,25
+457,Ultra Product,Food,80.12,194.62,748,23
+458,Standard System,Toys,882.18,72.88,792,27
+459,Deluxe Service,Software,567.66,307.11,168,66
+460,Advanced Tool,Books,920.7,309.96,453,37
+461,Standard Service,Books,754.92,296.84,393,54
+462,Ultra System,Books,255.31,324.09,254,80
+463,Wireless Hub,Hardware,292.07,470.93,27,94
+464,Basic Tool,Software,610.86,98.38,401,47
+465,Premium Tool,Food,392.03,124.34,653,86
+466,Standard Console,Electronics,987.01,467.29,135,59
+467,Wireless Software,Toys,550.89,90.52,482,19
+468,Premium Hub,Clothing,23.66,111.79,944,17
+469,Ultra Console,Sports,632.28,253.02,425,64
+470,Ultra Service,Software,542.28,80.58,85,49
+471,Standard Console,Home & Garden,974.57,81.91,334,60
+472,Wireless Service,Sports,701.69,366.33,866,40
+473,Premium Tool,Clothing,925.38,62.41,626,87
+474,Premium Solution,Books,128.25,355.41,718,11
+475,Deluxe Hardware,Toys,527.78,392.58,738,43
+476,Deluxe System,Books,752.28,437.36,750,25
+477,Premium System,Beauty,279.26,36.62,729,83
+478,Standard Hardware,Food,515.67,32.44,879,82
+479,Deluxe System,Books,262.56,55.94,587,96
+480,Standard Tool,Software,12.54,430.05,12,41
+481,Premium Hardware,Toys,389.15,79.29,953,14
+482,Smart Software,Home & Garden,328.58,211.05,737,50
+483,Basic Service,Hardware,379.08,253.51,923,16
+484,Deluxe Tool,Software,981.6,477.27,70,69
+485,Basic Solution,Toys,95.52,231.09,377,35
+486,Basic Hub,Sports,742.18,125.08,377,85
+487,Super Tool,Software,762.88,126.34,6,62
+488,Premium Tool,Software,352.96,420.59,898,11
+489,Advanced Device,Beauty,850.52,364.97,106,36
+490,Smart Tool,Beauty,497.11,34.65,145,45
+491,Standard Device,Home & Garden,898.31,262.28,717,57
+492,Super Service,Hardware,104.62,71.09,839,60
+493,Standard Hub,Hardware,71.66,332.91,133,40
+494,Basic Solution,Toys,926.78,199.51,851,51
+495,Advanced Hardware,Sports,241.28,472.06,139,84
+496,Standard Product,Clothing,172.73,235.7,416,25
+497,Smart System,Home & Garden,457.4,234.36,872,25
+498,Standard Product,Sports,828.12,349.95,41,37
+499,Advanced Product,Clothing,714.05,484.36,405,75
+500,Premium Solution,Sports,821.89,91.06,974,61

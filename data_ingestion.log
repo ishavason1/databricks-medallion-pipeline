@@ -1,0 +1,79 @@
+2026-08-25 15:42:49,883 - INFO - Starting Bronze layer ingestion orchestration
+2026-08-25 15:42:49,883 - INFO - Starting 01_ingest_customers
+2026-08-25 15:42:49,883 - ERROR - Error running 01_ingest_customers: [Errno 2] No such file or directory: '01_ingest_customers.py'
+Traceback (most recent call last):
+  File "src/bronze/ingest_all.py", line 32, in load_and_run_script
+    spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 859, in get_code
+  File "<frozen importlib._bootstrap_external>", line 916, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: '01_ingest_customers.py'
+2026-08-25 15:42:49,884 - ERROR - 01_ingest_customers failed
+2026-08-25 15:42:49,884 - INFO - Starting 02_ingest_orders
+2026-08-25 15:42:49,884 - ERROR - Error running 02_ingest_orders: [Errno 2] No such file or directory: '02_ingest_orders.py'
+Traceback (most recent call last):
+  File "src/bronze/ingest_all.py", line 32, in load_and_run_script
+    spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 859, in get_code
+  File "<frozen importlib._bootstrap_external>", line 916, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: '02_ingest_orders.py'
+2026-08-25 15:42:49,884 - ERROR - 02_ingest_orders failed
+2026-08-25 15:42:49,884 - INFO - Starting 03_ingest_products
+2026-08-25 15:42:49,884 - ERROR - Error running 03_ingest_products: [Errno 2] No such file or directory: '03_ingest_products.py'
+Traceback (most recent call last):
+  File "src/bronze/ingest_all.py", line 32, in load_and_run_script
+    spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 859, in get_code
+  File "<frozen importlib._bootstrap_external>", line 916, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: '03_ingest_products.py'
+2026-08-25 15:42:49,884 - ERROR - 03_ingest_products failed
+2026-08-25 15:42:49,884 - ERROR - Some Bronze layer ingestions failed
+2026-08-25 15:50:20,613 - INFO - Starting Bronze layer ingestion orchestration
+2026-08-25 15:50:20,613 - INFO - Starting 01_ingest_customers
+2026-08-25 15:50:20,614 - ERROR - Error running 01_ingest_customers: name 'os' is not defined
+Traceback (most recent call last):
+  File "src/bronze/ingest_all.py", line 30, in load_and_run_script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+NameError: name 'os' is not defined
+2026-08-25 15:50:20,615 - ERROR - 01_ingest_customers failed
+2026-08-25 15:50:20,615 - INFO - Starting 02_ingest_orders
+2026-08-25 15:50:20,616 - ERROR - Error running 02_ingest_orders: name 'os' is not defined
+Traceback (most recent call last):
+  File "src/bronze/ingest_all.py", line 30, in load_and_run_script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+NameError: name 'os' is not defined
+2026-08-25 15:50:20,616 - ERROR - 02_ingest_orders failed
+2026-08-25 15:50:20,617 - INFO - Starting 03_ingest_products
+2026-08-25 15:50:20,618 - ERROR - Error running 03_ingest_products: name 'os' is not defined
+Traceback (most recent call last):
+  File "src/bronze/ingest_all.py", line 30, in load_and_run_script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+NameError: name 'os' is not defined
+2026-08-25 15:50:20,619 - ERROR - 03_ingest_products failed
+2026-08-25 15:50:20,620 - ERROR - Some Bronze layer ingestions failed
+2026-08-25 15:50:32,713 - INFO - Starting Bronze layer ingestion orchestration
+2026-08-25 15:50:32,713 - INFO - Starting 01_ingest_customers
+2026-08-25 15:50:32,728 - ERROR - 01_ingest_customers failed
+2026-08-25 15:50:32,728 - INFO - Starting 02_ingest_orders
+2026-08-25 15:50:32,743 - ERROR - 02_ingest_orders failed
+2026-08-25 15:50:32,744 - INFO - Starting 03_ingest_products
+2026-08-25 15:50:32,757 - ERROR - 03_ingest_products failed
+2026-08-25 15:50:32,759 - ERROR - Some Bronze layer ingestions failed
+2026-08-25 16:07:26,261 - INFO - Starting Bronze layer ingestion orchestration
+2026-08-25 16:07:26,261 - INFO - Starting 01_ingest_customers
+2026-08-25 16:07:32,002 - ERROR - 01_ingest_customers failed
+2026-08-25 16:07:32,002 - INFO - Starting 02_ingest_orders
+2026-08-25 16:07:33,302 - ERROR - 02_ingest_orders failed
+2026-08-25 16:07:33,302 - INFO - Starting 03_ingest_products
+2026-08-25 16:07:34,596 - ERROR - 03_ingest_products failed
+2026-08-25 16:07:34,596 - ERROR - Some Bronze layer ingestions failed
+2026-08-25 16:16:15,475 - INFO - Starting Bronze layer ingestion orchestration
+2026-08-25 16:16:15,475 - INFO - Starting 01_ingest_customers
+2026-08-25 16:16:15,488 - ERROR - 01_ingest_customers failed
+2026-08-25 16:16:15,488 - INFO - Starting 02_ingest_orders
+2026-08-25 16:16:15,501 - ERROR - 02_ingest_orders failed
+2026-08-25 16:16:15,501 - INFO - Starting 03_ingest_products
+2026-08-25 16:16:15,515 - ERROR - 03_ingest_products failed
+2026-08-25 16:16:15,515 - ERROR - Some Bronze layer ingestions failed

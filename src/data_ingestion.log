@@ -1,0 +1,27 @@
+2026-08-25 16:07:31,985 - ERROR - Error ingesting customers: 'JavaPackage' object is not callable
+Traceback (most recent call last):
+  File "/Users/ishavason/Desktop/databricks-medallion-pipeline/src/bronze/01_ingest_customers.py", line 38, in ingest_customers
+    .getOrCreate()
+  File "/Users/ishavason/.pyenv/versions/3.10.14/lib/python3.10/site-packages/pyspark/sql/session.py", line 562, in getOrCreate
+    session = SparkSession(sc, options=self._options)
+  File "/Users/ishavason/.pyenv/versions/3.10.14/lib/python3.10/site-packages/pyspark/sql/session.py", line 660, in __init__
+    jSparkSessionClass.getDefaultSession().isDefined()
+TypeError: 'JavaPackage' object is not callable
+2026-08-25 16:07:33,284 - ERROR - Error ingesting orders: 'JavaPackage' object is not callable
+Traceback (most recent call last):
+  File "/Users/ishavason/Desktop/databricks-medallion-pipeline/src/bronze/02_ingest_orders.py", line 38, in ingest_orders
+    .getOrCreate()
+  File "/Users/ishavason/.pyenv/versions/3.10.14/lib/python3.10/site-packages/pyspark/sql/session.py", line 562, in getOrCreate
+    session = SparkSession(sc, options=self._options)
+  File "/Users/ishavason/.pyenv/versions/3.10.14/lib/python3.10/site-packages/pyspark/sql/session.py", line 660, in __init__
+    jSparkSessionClass.getDefaultSession().isDefined()
+TypeError: 'JavaPackage' object is not callable
+2026-08-25 16:07:34,580 - ERROR - Error ingesting products: 'JavaPackage' object is not callable
+Traceback (most recent call last):
+  File "/Users/ishavason/Desktop/databricks-medallion-pipeline/src/bronze/03_ingest_products.py", line 38, in ingest_products
+    .getOrCreate()
+  File "/Users/ishavason/.pyenv/versions/3.10.14/lib/python3.10/site-packages/pyspark/sql/session.py", line 562, in getOrCreate
+    session = SparkSession(sc, options=self._options)
+  File "/Users/ishavason/.pyenv/versions/3.10.14/lib/python3.10/site-packages/pyspark/sql/session.py", line 660, in __init__
+    jSparkSessionClass.getDefaultSession().isDefined()
+TypeError: 'JavaPackage' object is not callable
